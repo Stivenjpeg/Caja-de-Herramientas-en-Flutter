@@ -42,7 +42,4 @@ git push -u origin main
 ```
 Si ya existe un repositorio con otro nombre, sustituye la URL del remoto.
 
-## Observaciones
-- El APK no se incluye en este ZIP; debe compilarse con Flutter en un entorno Android.
-- El enlace de noticias utiliza `https://kinsta.com/wp-json/wp/v2/posts?per_page=3&_embed`. Verifica que el sitio permita peticiones desde tu dispositivo y publica este endpoint en el foro del curso.
-- La API de clima muestra Santo Domingo como ubicación de referencia.
+
